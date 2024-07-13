@@ -12,8 +12,8 @@ plugins:
 
 color: "#13ccf9" 
 
-disqus:
-  shortname: Hongye-Li
+#disqus:
+#  shortname: Hongye-Li
 #
 rrss:
   # discord: hoola
