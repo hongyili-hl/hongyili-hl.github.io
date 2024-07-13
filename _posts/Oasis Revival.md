@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Wind: A Minimalistic, Simple, and Beautiful Blogging Theme'
-image: /assets/images/example4.jpg
+title: 'Oasis Revival'
+image: assets/images/Oasis Revival.jpg
 tags:
-  - theme
-  - documentation
+  - Urban Design
+  - Rural Planning
 ---
 If you like it please think on supporting my job:
 
