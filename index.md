@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# PROJECT
 
 Hello Friend!
 
