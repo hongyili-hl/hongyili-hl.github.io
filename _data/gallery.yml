@@ -1,19 +1,19 @@
 photos:
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/200/300
+    url: assets/images/Miami, FL_1.jpg
     quote: This is a quote
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/800/800
+    url: assets/images/Miami, FL_2.jpg
     quote: This is a quote 🐬
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/1200/720
+    url: assets/images/Mountain View, CA_1.jpg
     quote: This is a quote 🐬
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/600/600
+    url: assets/images/Paipa, Colombia_1.jpg
     quote: This is a quote 🐬
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/400/600
+    url: assets/images/Paipa, Colombia_2.jpg
     quote: This is a quote 🐬
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/300/200
+    url: assets/images/Paipa, Colombia_3.jpg
     quote: This is a quote 🐬
