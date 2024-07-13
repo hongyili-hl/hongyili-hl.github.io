@@ -3,15 +3,8 @@ title: ABOUT
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there! I'm a designer & planner who has diverse skills in city planning, architecture, and product design, with a Master of City Planning degree and Integrated Product Design certificate from the University of Pennsylvania. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+With a global perspective and dedication to interdisciplinary study, I participated in a broad range of professional projects in both the US and China, including downtown redevelopment, historic preservation plan, new town design & planning, architectural design, and interior consultancy. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm passionate about creating active spaces that can benefit users or local communities, and seeks for innovative tool kits to maximize the impact of design. Envisioning the future, I'll continue to explore the intersection of design technology, climate resiliency, and public engagement in Philadelphia.
