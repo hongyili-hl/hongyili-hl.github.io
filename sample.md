@@ -1,6 +1,6 @@
 ---
-title: sample
-layout: page
+title: CONTACT
+layout: contact
 ---
 
 # Lorem ipsum dolor 
