@@ -3,5 +3,5 @@ layout: home
 ---
 # PROJECTS
 
-Hello Friend!
+Welcome to my homepage!
 
