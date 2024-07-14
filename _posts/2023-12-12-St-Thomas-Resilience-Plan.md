@@ -3,6 +3,7 @@ layout: post
 title:  "St Thomas Resilience Plan"
 image: /assets/images/St Thomas Resilience Plan.jpg
 tags: ["Urban Planning", "Climate Resiliency"]
+author: St Thomas, USVI
 ---
 
 St Thomas is an island with a rich history and beautiful natural scenery. The island is the site of centuries of cultural mixing with Indigenous, African, European, and American influences, making the culture of the US Virgin Islands unique, even within the Caribbean. It’s no wonder then, that in addition to being a beautiful place to live, St Thomas is a major destination for visitors. Whether they are stopping by on a cruise or making a longer stay on the island, tourists are the main driver of St Thomas’ economy. In many ways, the tourism industry makes life on the island possible for the 40,000 residents who call it home.
