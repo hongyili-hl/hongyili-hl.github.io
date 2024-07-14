@@ -27,10 +27,6 @@ layout: base
     </article>
   </div>
 
-  <div class="mx-auto my-10">
-    {% include sharing.html %}
-  </div>
-
   <div class="post-navigation py-8 flex flex-col md:flex-row-reverse justify-center ">
     {% if page.next %}
     <a class="next-post mx-auto transition hover:scale-110 duration-300" href="{{ page.next.url | relative_url }}">
