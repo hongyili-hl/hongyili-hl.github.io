@@ -3,37 +3,11 @@ layout: post
 title:  "Asian Cultural Corridor"
 image: /assets/images/Asian Cultural Corridor.jpg
 tags: ["Urban Design", "Place-making"]
+author: Philadelphia, PA
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla dolor felis, quis mattis orci posuere in. Morbi mollis ligula fermentum felis posuere, sed bibendum justo convallis. Mauris eu sapien commodo, commodo tortor a, iaculis orci. Curabitur at nulla sed ipsum auctor tempus nec quis enim. Nam non sodales ante. Vivamus sit amet tempus leo, at malesuada lacus. Fusce nunc ante, pellentesque in dictum quis, maximus id lacus. Mauris vel risus magna. Proin malesuada eros vitae commodo ullamcorper. Praesent faucibus lectus tellus, sit amet mollis nisl bibendum sed. Pellentesque varius nec risus eget pretium. Donec in ligula orci. Phasellus rutrum convallis ex eget vestibulum. Vestibulum sollicitudin bibendum justo sit amet iaculis. Praesent non ultricies ante. Donec sit amet augue lacus. 
+This project focuses on the Chinatown in Philadelphia, which is lacking open space and experiencing economic stagnant. Even though it's called Chinatown, voices from local LEP communities are usually ignored. Therefore, it's important to involve local communities following their cultural tradition, as well as catalyze the neighborhood's development for the next generation.
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+From urban designers' perspective, urban vitality shapes a city's public realms. Within the public vitality, different groups of people are the cornerstones of the diverse culture. Based on our analysis of competition sites and understanding of Asian culture, we propose a cultural corridor on 8th St, and introduce lunar festivals to shape public realms. By revitalizing the streets and activating the public nodes in Chinatown East, we could create new containers for public vitality, and satisfy the needs of local communities. Eventually, residents could envision a thriving cultural corridor with energetic public realms.
 
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
+**Contact for more information~**
