@@ -1,5 +1,5 @@
 ---
-title: AI-LAB
+title: LAB
 layout: tags
 permalink: /lab/
 ---
