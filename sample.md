@@ -1,5 +1,5 @@
 ---
-title: etiquetas
+title: AI-LAB
 layout: tags
-permalink: /tags/
+permalink: /lab/
 ---
