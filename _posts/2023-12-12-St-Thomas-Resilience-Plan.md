@@ -1,39 +1,14 @@
 ---
 layout: post
-title:  "La desindividualizacion"
-image: /assets/images/test.jpg
-tags: ["Animal", "Music", "Mystic"]
+title:  "St Thomas Resilience Plan"
+image: /assets/images/St Thomas Resilience Plan.jpg
+tags: ["Urban Planning", "Climate Resiliency"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla dolor felis, quis mattis orci posuere in. Morbi mollis ligula fermentum felis posuere, sed bibendum justo convallis. Mauris eu sapien commodo, commodo tortor a, iaculis orci. Curabitur at nulla sed ipsum auctor tempus nec quis enim. Nam non sodales ante. Vivamus sit amet tempus leo, at malesuada lacus. Fusce nunc ante, pellentesque in dictum quis, maximus id lacus. Mauris vel risus magna. Proin malesuada eros vitae commodo ullamcorper. Praesent faucibus lectus tellus, sit amet mollis nisl bibendum sed. Pellentesque varius nec risus eget pretium. Donec in ligula orci. Phasellus rutrum convallis ex eget vestibulum. Vestibulum sollicitudin bibendum justo sit amet iaculis. Praesent non ultricies ante. Donec sit amet augue lacus. 
+St Thomas is an island with a rich history and beautiful natural scenery. The island is the site of centuries of cultural mixing with Indigenous, African, European, and American influences, making the culture of the US Virgin Islands unique, even within the Caribbean. It’s no wonder then, that in addition to being a beautiful place to live, St Thomas is a major destination for visitors. Whether they are stopping by on a cruise or making a longer stay on the island, tourists are the main driver of St Thomas’ economy. In many ways, the tourism industry makes life on the island possible for the 40,000 residents who call it home.
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+However, climate change is worsening environmental threats that make life on the island increasingly precarious. As the planet warms, hurricanes will get stronger, routine rainfall will become more severe, drought will become more common, and sea level rise will threaten the shores of St Thomas. The island has already begun to feel the impacts of these threats in recent years.
 
-test.. test... test..... test?..... test!....
+To protect the island’s cultural resources, natural beauty, and communities, it is imperative to plan for a more resilient St Thomas in the face of these worsening environmental threats. This plan focuses on the island’s south shore, which is home to some of its most critical cultural, economic, and ecological resources. With thoughtful planning, the government of the USVI can secure a future where these resources are protected, and residents do not fear worsening environmental threats.
 
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
+**Contact for more information~** 
