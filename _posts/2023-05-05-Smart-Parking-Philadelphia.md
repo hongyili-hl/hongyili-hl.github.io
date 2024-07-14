@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Smart Parking Philadelphia"
-image: /assets/images/test.jpg
+image: /assets/images/Smart Parking Philadelphia.jpg
 tags: ["Urban Technology", "Product Prototyping"]
 author: Philadelphia, PA
 ---
