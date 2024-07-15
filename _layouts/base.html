@@ -5,6 +5,17 @@
   <body class="container mx-auto px-4 md:px-16 tracking-wide bg-slate-50 dark:bg-slate-800 dark:text-white">
     {% include navbar.html %}
 
+    <script type="text/javascript">
+      document.oncontextmenu = function() {
+        return false;
+      };
+    
+      document.onkeydown = function(e) {
+        if (e.keyCode == 123) {
+           return false;
+        }
+      };
+  </script>
     <div>
       {{ content }}
     </div>
