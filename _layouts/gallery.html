@@ -4,9 +4,7 @@ layout: base
 
 <div class="md:w-4/5 mx-auto columns-2 md:columns-3 my-10 gap-0">
   {% for pic in site.data.gallery.photos %}
-  <div class="gallery-item">
-    <div class="imag">
-      <div class="imshar" onclick="fn()"></div>
+    <div class="gallery-item">
       <img src="{{ pic.url }}" alt="{{pic.description}}" class="w-full max-w-screen-sm h-auto shadow-md" oncontextmenu="return false" ondragstart="return false" style="-webkit-touch-callout: none;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none">
     </div>
     <div class="overlay">
