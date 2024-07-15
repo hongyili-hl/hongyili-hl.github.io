@@ -16,7 +16,10 @@ layout: base
         <p class="text-slate-700 dark:text-slate-100/80">{{ page.date | date: "%d-%m-%Y" }}</p>
       </div>
     </div>
-    <img src="{{ page.image | relative_url }}" alt="" class="basis-2/6  w-11/12 md:w-5/12 p-2 md:px-0" oncontextmenu="return false" ondragstart="return false" style="-webkit-touch-callout: none;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none">
+    <div class="imag">
+      <div class="imshar" onclick="fn()"></div>
+      <img src="{{ page.image | relative_url }}" alt="" class="basis-2/6  w-11/12 md:w-5/12 p-2 md:px-0" oncontextmenu="return false" ondragstart="return false" style="-webkit-touch-callout: none;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none">
+    </div>
   </div>
 </div>
 
