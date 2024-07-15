@@ -110,3 +110,10 @@ img {
   -ms-user-select: none;
   user-select: none;
 }
+
+.imgbox{
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
