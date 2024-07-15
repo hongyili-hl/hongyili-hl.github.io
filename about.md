@@ -1,6 +1,7 @@
 ---
 title: ABOUT
 layout: page
+permalink: /about/
 ---
 
 Hi there! I'm a designer & planner who has diverse skills in city planning, architecture, and product design, with a Master of City Planning degree and Integrated Product Design certificate from the University of Pennsylvania. 
