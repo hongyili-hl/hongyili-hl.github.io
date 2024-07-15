@@ -95,3 +95,10 @@
   opacity: 1;
   /* Muestra el overlay */
 }
+
+img {
+  pointer-event:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  user-select:none;
+}
