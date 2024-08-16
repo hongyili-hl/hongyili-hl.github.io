@@ -1,9 +1,9 @@
 domain: hongyili-hl.github.io
 url: https://hongyili-hl.github.io
 
-title: HONGYI'S WAREHOUSE
-email: l1093180752hye@outlook.com
-author: yy
+title: HONGYI'S WEBSITE
+email: hongyi_liii@outlook.com
+author: lhyhhh666
 
 lang: en
 
@@ -13,7 +13,7 @@ plugins:
 color: "#13ccf9" 
 
 #disqus:
-#  shortname: Hongye-Li
+#  shortname: Hongyi
 #
 rrss:
   # discord: hoola
