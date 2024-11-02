@@ -1,4 +1,4 @@
 ---
-title: GALLERY
+title: TRAVEL
 layout: gallery
 ---
