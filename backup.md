@@ -1,8 +1,3 @@
----
-title: CONTACT
-layout: contact
-permalink: /contact/
----
 
 # Lorem ipsum dolor 
 
