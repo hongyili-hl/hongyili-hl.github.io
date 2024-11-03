@@ -1,79 +1,139 @@
 photos:
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Miami, FL_1.jpg
-    quote: Miami, FL_1
+    url: assets/images/Philadelphia, PA_1.jpg
+    quote: Philadelphia, PA
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Miami, FL_2.jpg
-    quote: Miami, FL_2
+    url: assets/images/Philadelphia, PA_2.jpg
+    quote: Philadelphia, PA
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Mountain View, CA_1.jpg
-    quote: Mountain View, CA_1
+    url: assets/images/Philadelphia, PA_3.jpg
+    quote: Philadelphia, PA
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Paipa, Colombia_1.jpg
-    quote: Paipa, Colombia_1
+    url: assets/images/Philadelphia, PA_4.jpg
+    quote: Philadelphia, PA
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Paipa, Colombia_2.jpg
-    quote: Paipa, Colombia_2
+    url: assets/images/Philadelphia, PA_5.jpg
+    quote: Philadelphia, PA
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Paipa, Colombia_3.jpg
-    quote: Paipa, Colombia_3
+    url: assets/images/Philadelphia, PA_6.jpg
+    quote: Philadelphia, PA
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Paipa, Colombia_4.jpg
-    quote: Paipa, Colombia_4
+    url: assets/images/Philadelphia, PA_7.jpg
+    quote: Philadelphia, PA
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Paipa, Colombia_5.jpg
-    quote: Paipa, Colombia_5
+    url: assets/images/New York, NY_1.jpg
+    quote: New York, NY
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Paipa, Colombia_6.jpg
-    quote: Paipa, Colombia_6
+    url: assets/images/New York, NY_2.jpg
+    quote: New York, NY
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Palo Alto, CA_1.jpg
-    quote: Palo Alto, CA_1
+    url: assets/images/New York, NY_3.jpg
+    quote: New York, NY
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Puppy_1.jpg
-    quote: Puppy_1
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Puppy_2.jpg
-    quote: Puppy_2
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/Puppy_3.jpg
-    quote: Puppy_3
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/San Francisco, CA_1.jpg
-    quote: San Francisco, CA_1
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/San Francisco, CA_2.jpg
-    quote: San Francisco, CA_2
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/St Thomas, USVI_1.jpg
-    quote: St Thomas, USVI_1
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/St Thomas, USVI_2.jpg
-    quote: St Thomas, USVI_2
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/St Thomas, USVI_3.jpg
-    quote: St Thomas, USVI_3
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/St Thomas, USVI_4.jpg
-    quote: St Thomas, USVI_4
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/St Thomas, USVI_5.jpg
-    quote: St Thomas, USVI_5
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/St Thomas, USVI_6.jpg
-    quote: St Thomas, USVI_6
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: assets/images/St Thomas, USVI_7.jpg
-    quote: St Thomas, USVI_7
+    url: assets/images/New York, NY_4.jpg
+    quote: New York, NY
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: assets/images/Washington, DC_1.jpg
-    quote: Washington, DC_1
+    quote: Washington, DC
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: assets/images/Washington, DC_2.jpg
-    quote: Washington, DC_2
+    quote: Washington, DC
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: assets/images/Washington, DC_3.jpg
-    quote: Washington, DC_3
+    quote: Washington, DC
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: assets/images/Washington, DC_4.jpg
-    quote: Washington, DC_4
+    quote: Washington, DC
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Boston, MA_1.jpg
+    quote: Boston, MA
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Boston, MA_2.jpg
+    quote: Boston, MA
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Boston, MA_3.jpg
+    quote: Boston, MA
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Boston, MA_4.jpg
+    quote: Boston, MA
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Miami, FL_1.jpg
+    quote: Miami, FL
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Miami, FL_2.jpg
+    quote: Miami, FL
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/St Thomas, USVI_1.jpg
+    quote: St Thomas, USVI
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/St Thomas, USVI_2.jpg
+    quote: St Thomas, USVI
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/St Thomas, USVI_3.jpg
+    quote: St Thomas, USVI
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/St Thomas, USVI_4.jpg
+    quote: St Thomas, USVI
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/St Thomas, USVI_5.jpg
+    quote: St Thomas, USVI
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/St Thomas, USVI_6.jpg
+    quote: St Thomas, USVI
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/St Thomas, USVI_7.jpg
+    quote: St Thomas, USVI
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Palo Alto, CA_1.jpg
+    quote: Palo Alto, CA
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Mountain View, CA_1.jpg
+    quote: Mountain View, CA
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/San Francisco, CA_1.jpg
+    quote: San Francisco, CA
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/San Francisco, CA_2.jpg
+    quote: San Francisco, CA
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Paipa, Colombia_1.jpg
+    quote: Paipa, Colombia
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Paipa, Colombia_2.jpg
+    quote: Paipa, Colombia
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Paipa, Colombia_3.jpg
+    quote: Paipa, Colombia
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Paipa, Colombia_4.jpg
+    quote: Paipa, Colombia
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Paipa, Colombia_5.jpg
+    quote: Paipa, Colombia
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Paipa, Colombia_6.jpg
+    quote: Paipa, Colombia
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Paipa, Colombia_7.jpg
+    quote: Paipa, Colombia
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Chicago, IL_1.jpg
+    quote: Chicago, IL
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Chicago, IL_2.jpg
+    quote: Chicago, IL
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Chicago, IL_3.jpg
+    quote: Chicago, IL
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Chicago, IL_4.jpg
+    quote: Chicago, IL
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Puppy_1.jpg
+    quote: Puppy
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Puppy_2.jpg
+    quote: Puppy
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Puppy_3.jpg
+    quote: Puppy
