@@ -2,7 +2,7 @@
 layout: post
 title:  "Macon Action Plan"
 image: /assets/images/Smart Parking Philadelphia.jpg
-tags: ["Urban Design", "Downtown Planning"]
+tags: ["Urban Design", "Downtown Revitalization"]
 author: Macon, GA
 ---
 
