@@ -2,7 +2,7 @@
 layout: post
 title: 'Oasis Revival'
 image: assets/images/Oasis Revival.jpg
-tags: ["Urban Design", "Rural Planning"]
+tags: ["Urban Design", "Rural Revitalization"]
 author: Turpan, CHN
 ---
 
