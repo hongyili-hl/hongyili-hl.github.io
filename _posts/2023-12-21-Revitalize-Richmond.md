@@ -2,7 +2,7 @@
 layout: post
 title:  "Revitalize Richmond"
 image: /assets/images/Smart Parking Philadelphia.jpg
-tags: ["Urban Design"]
+tags: ["Urban Design", "Downtown Planning"]
 author: Richmond, IN
 ---
 
