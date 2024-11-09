@@ -2,7 +2,7 @@
 layout: post
 title:  "Petersburg Downtown Plan"
 image: /assets/images/Smart Parking Philadelphia.jpg
-tags: ["Urban Design", "Downtown Revitalization"]
+tags: ["Urban Planning", "Downtown Revitalization"]
 author: Petersburg, VA
 ---
 
