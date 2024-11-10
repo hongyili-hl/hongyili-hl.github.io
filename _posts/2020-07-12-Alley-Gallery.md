@@ -10,4 +10,4 @@ In the old town of Guangzhou, market culture and public life are the main charac
  
 In this project, the site is located at an important node of local public space, which is back to traditional alleys and faces the river. To reappear traditional feelings, I extract the scales and modules of local alleys, then combine them with abstract architecture prototypes. As a result, alleys and corridors run through the gallery within flexible exhibition space. Besides, due to the complicated site condition, two diagonal axis grids are applied to accustom the architecture with its surroundings, so several courtyards are produced to accommodate different grids in the gallery.
 
-**Contact for more information~**
+**Please contact for more information~**
