@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revitalize Richmond"
-image: /assets/images/Smart Parking Philadelphia.jpg
+image: /assets/images/Revitalize Richmond.jpg
 tags: ["Urban Design", "Downtown Revitalization"]
 author: Richmond, IN
 ---
