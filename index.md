@@ -3,5 +3,5 @@ layout: home
 ---
 # PROJECTS
 
-Welcome to my homepage!
+Welcome to my homepage! Here're some of my selected works from 2020 to 2023. 
 
