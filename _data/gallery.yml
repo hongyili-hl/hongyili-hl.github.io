@@ -129,6 +129,9 @@ photos:
     url: assets/images/Chicago, IL_4.jpg
     quote: Chicago, IL
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: assets/images/Princeton, NJ_1.jpg
+    quote: Princeton, NJ
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: assets/images/Puppy_1.jpg
     quote: Puppy
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
