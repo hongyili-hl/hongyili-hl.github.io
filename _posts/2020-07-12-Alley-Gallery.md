@@ -12,7 +12,4 @@ In this project, the site is located at an important node of local public space,
 
 **Please contact for more information~**
 
----
-image: /assets/images/Alley Gallery-2.jpg
-image: /assets/images/Alley Gallery-3.jpg
----
+![Alley Gallery-2](/assets/images/Alley Gallery-2.jpg)
