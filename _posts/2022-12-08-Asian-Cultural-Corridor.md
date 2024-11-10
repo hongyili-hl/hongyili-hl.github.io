@@ -10,4 +10,4 @@ This project focuses on the Chinatown in Philadelphia, which is lacking open spa
 
 From urban designers' perspective, urban vitality shapes a city's public realms. Within the public vitality, different groups of people are the cornerstones of the diverse culture. Based on our analysis of competition sites and understanding of Asian culture, we propose a cultural corridor on 8th St, and introduce lunar festivals to shape public realms. By revitalizing the streets and activating the public nodes in Chinatown East, we could create new containers for public vitality, and satisfy the needs of local communities. Eventually, residents could envision a thriving cultural corridor with energetic public realms.
 
-**Contact for more information~**
+**Please contact for more information~**
