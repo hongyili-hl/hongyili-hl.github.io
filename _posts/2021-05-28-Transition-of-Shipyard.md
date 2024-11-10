@@ -14,4 +14,3 @@ Considering the housing shortage in the district, we propose a progressive devel
 
 ![Transition of Shipyard-2](/assets/images/Transition of Shipyard-2.jpg)
 ![Transition of Shipyard-3](/assets/images/Transition of Shipyard-3.jpg)
-
