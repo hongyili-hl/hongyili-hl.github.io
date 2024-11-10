@@ -12,4 +12,4 @@ Located at the intersection of three rivers in south Shanghai, the goal of this 
 
 Another important aspect of the project is landscape restoration. The existing concrete leeve in the study area is lack of permeablity. The guts and streams are severely polluted and disconnected. Therefore, we aim to provide a natural waterfront experience and promote biodiversity with necessary design intervention and landscape restoration.
 
-**Please [contact](https://hongyili-hl.github.io/contact/) for more information~**
+**Please contact for more information~**
