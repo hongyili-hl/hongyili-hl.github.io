@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Huangpu River Bay Area Urban Design"
-image: /assets/images/Smart Parking Philadelphia.jpg
+image: /assets/images/Huangpu River Bay Area Urban Design.jpg
 tags: ["Urban Design", "Landscape Architecture"]
 author: Shanghai, CHN
 ---
