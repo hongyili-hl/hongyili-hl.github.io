@@ -13,3 +13,6 @@ Located at the intersection of three rivers in south Shanghai, the goal of this 
 Another important aspect of the project is landscape restoration. The existing concrete leeve in the study area is lack of permeablity. The guts and streams are severely polluted and disconnected. Therefore, we aim to provide a natural waterfront experience and promote biodiversity with necessary design intervention and landscape restoration.
 
 **Please contact for more information~**
+
+![Huangpu River Bay Area Urban Design-2](/assets/images/Huangpu River Bay Area Urban Design-2.jpg)
+![Huangpu River Bay Area Urban Design-3](/assets/images/Huangpu River Bay Area Urban Design-3.jpg)
