@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Macon Action Plan"
-image: /assets/images/Macon Action Plan.jpg
+image: /assets/images/Macon Action Plan_Diagram.jpg
 tags: ["Urban Planning", "Downtown Revitalization"]
 author: Macon, GA
 ---
