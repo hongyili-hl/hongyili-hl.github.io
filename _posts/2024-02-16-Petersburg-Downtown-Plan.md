@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Petersburg Downtown Plan"
-image: /assets/images/Petersburg Downtown Plan.jpg
+image: /assets/images/Petersburg Downtown Plan_Axon.jpg
 tags: ["Urban Planning", "Downtown Revitalization"]
 author: Petersburg, VA
 ---
