@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Union Square Transformation Plan"
-image: /assets/images/Macon Action Plan.jpg
+image: /assets/images/Union Square Transformation Plan.jpg
 tags: ["Urban Planning", "Neighborhood Revitalization"]
 author: New Haven, CT
 ---
