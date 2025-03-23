@@ -14,4 +14,4 @@ Thanks to countless emerging technology, we have a chance to collaborate with pr
 
 **And this link for [ChatGPT - Urban Planning Researcher](https://chatgpt.com/g/g-673c068119e0819198e1edb77a6847a2-urban-planning-researcher) – A data & regulation researcher for US designers & planners**
 
-Other than that, as diffusion image models continue to evolve, I’m working on integrating image generation into the process of public engagements, such as neighborhood meetings and community festivals. 
+Other than that, as diffusion image models continue to evolve, I’m working on integrating image generation into the process of public engagements, such as neighborhood meetings and community festivals. Here're some of my previous tests based on designers' workflow. 
