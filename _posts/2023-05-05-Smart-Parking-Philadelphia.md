@@ -18,3 +18,5 @@ We completed the prototype with Arduino sensors. For instance, the inflow sectio
 Similarly, the outflow section consists of power supply, inductive loops, and communication module (signal transmitter).
 
 **Please refer to this [link](https://www.sensingthecity.com/smart-paking-philadelphia-a-product-that-detects-and-visualizes-the-availability-of-street-parking/) for more information~**
+
+![Smart Parking Philadelphia-2](/assets/images/Smart Parking Philadelphia-2.jpg)
