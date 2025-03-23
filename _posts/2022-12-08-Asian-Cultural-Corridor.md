@@ -2,7 +2,7 @@
 layout: post
 title:  "Asian Cultural Corridor"
 image: /assets/images/Asian Cultural Corridor.jpg
-tags: ["Urban Design", "Place-making"]
+tags: ["Urban Design", "Placemaking"]
 author: Philadelphia, PA
 ---
 
