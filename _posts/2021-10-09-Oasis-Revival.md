@@ -12,5 +12,7 @@ In this project, I propose a model of new urban morphology, together with progre
 
 **Please contact for more information~**
 
+![Oasis Revival-1](/assets/images/Oasis Revival-1.jpg)
 ![Oasis Revival-2](/assets/images/Oasis Revival-2.jpg)
 ![Oasis Revival-3](/assets/images/Oasis Revival-3.jpg)
+![Oasis Revival-4](/assets/images/Oasis Revival-4.jpg)
