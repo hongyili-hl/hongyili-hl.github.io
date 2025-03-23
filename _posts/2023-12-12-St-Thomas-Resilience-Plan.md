@@ -13,3 +13,5 @@ However, climate change is worsening environmental threats that make life on the
 To protect the island’s cultural resources, natural beauty, and communities, it is imperative to plan for a more resilient St Thomas in the face of these worsening environmental threats. This plan focuses on the island’s south shore, which is home to some of its most critical cultural, economic, and ecological resources. With thoughtful planning, the government of the USVI can secure a future where these resources are protected, and residents do not fear worsening environmental threats.
 
 **Please refer to this [link](https://www.design.upenn.edu/work/st-thomas-south-shoreline-resilience-plan) for more information~** 
+
+![St Thomas South Shoreline Resilience Plan-2](/assets/images/St Thomas South Shoreline Resilience Plan-2.jpg)
