@@ -12,5 +12,6 @@ From urban designers' perspective, urban vitality shapes a city's public realms.
 
 **Please contact for more information~**
 
+![Asian Cultural Corridor-1](/assets/images/Asian Cultural Corridor-1.jpg)
 ![Asian Cultural Corridor-2](/assets/images/Asian Cultural Corridor-2.jpg)
 ![Asian Cultural Corridor-3](/assets/images/Asian Cultural Corridor-3.jpg)
