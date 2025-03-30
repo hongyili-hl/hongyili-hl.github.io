@@ -4,7 +4,7 @@ layout: tags
 permalink: /ai/
 ---
 
-Thanks to all the emerging technology, we have a chance to collaborate with pre-trained AI agents and free ourselves from time-consuming tasks. In 2024, I developed a GPT toolkit for case study & online research with customized datasets. 
+Thanks to all the emerging technology, we have a chance to collaborate with pre-trained AI agents and free ourselves from many tasks. Last year, I developed a GPT toolkit for case study & online research with customized datasets. 
 
 ![Urban Design Explorer](/assets/images/GPT-1.jpg)
 
