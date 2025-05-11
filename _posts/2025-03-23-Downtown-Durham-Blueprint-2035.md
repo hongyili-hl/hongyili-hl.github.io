@@ -12,4 +12,4 @@ Downtown Durham has seen incredible growth and change since the last master plan
 
 The final plan will be revealed to public in the coming weeks! 
 
-**Web link coming soon~**
+**Please refer to this [link](https://downtowndurham.com/blueprint/) for more information. Final plan is coming soon~**
